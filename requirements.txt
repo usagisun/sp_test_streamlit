@@ -1,0 +1,7 @@
+streamlit
+PIL
+torch
+torch.nn
+pytorch_lightning
+torchvision
+torchvision.models
